@@ -6,8 +6,5 @@ namespace ApiClima.Models
     {
         [JsonPropertyName("current_weather")]
         public CurrentWeather CurrentWeather { get; set; }
-
-        [JsonPropertyName("latitude")]
-        public decimal Latitude { get; set; }
     }
 }
