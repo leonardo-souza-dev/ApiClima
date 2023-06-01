@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "ApiClima": {
+    "Clima.Api": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
